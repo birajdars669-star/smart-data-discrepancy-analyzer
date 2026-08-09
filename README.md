@@ -58,3 +58,25 @@ smart-data-discrepancy-analyzer/
 ├── test_b.csv
 ├── Patent_Documentation_Smart_Causal_Impact_Analyzer.docx
 └── README.md
+## Patent / Innovation Overview
+
+This project is developed as a technical prototype for a patent-oriented innovation in automated data discrepancy analysis.
+
+The proposed approach combines:
+- Source-level metric comparison
+- Transaction-level discrepancy detection
+- Attribute-level root-cause identification
+- Estimated financial impact analysis
+- Actionable analytical reporting
+
+The system is designed to help users understand not only that two data sources differ, but also where the discrepancy occurs, what may have caused it, and its estimated impact.
+
+## Evidence and Documentation
+
+The repository includes:
+- Patent-oriented technical documentation
+- Prior-art comparison and differentiation
+- Draft patent claims
+- Application screenshots
+- Screen recording
+- Test CSV datasets
