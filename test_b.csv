@@ -1,0 +1,3 @@
+Order_ID,Date,Product,Quantity,Price,Status
+1001,2026-01-01,A,5,500,Completed
+1002,2026-01-02,B,3,500,Completed
